@@ -87,6 +87,15 @@ console.log( "classB mobin's grads >>" ,school.classes.classB[1].score[1]);
 
 
 
+// change title
+let docTitle = document.title;
+window.addEventListener("blur" , () => {
+  document.title= "تروخدا برگرد :(";
+
+});
+window.addEventListener("focus" , () => {
+  document.title = "خوش برگشتی";
+})
 
 
 

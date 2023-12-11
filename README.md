@@ -11,7 +11,7 @@ This project doesn't have much visual impact, and it's all console work.
 
 ## developer :
 - Nima Khastar
-- Raheleh
+- Raheleh Shirazi
 - Milad
 - Mobin
 - Fatemeh Satoori
